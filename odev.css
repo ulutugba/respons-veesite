@@ -1,0 +1,271 @@
+
+
+*{
+	box-sizing:border-box;}
+	
+#sayfa{
+	padding:0px;
+	margin:0px;
+	width:100%;
+	height:auto;
+	}
+nav{
+	
+	padding:0px;
+	
+	margin:0px;
+	
+	height:60px;
+	background-color:#096;
+	color:#FFF;
+	
+	line-height:50px;
+		
+	
+	
+	
+	}			
+nav ul{
+	
+		
+	list-style-type:none;
+	color:#FFF;
+	}			
+			
+nav ul li{
+	
+
+	margin:5px;
+	
+	float:left;
+	color:#FFF;
+	
+	}
+	nav ul li a{
+		
+		color:#FFF;
+			text-decoration:none;
+			
+		
+	}
+		nav ul li a:hover{
+			
+			display:block;
+				
+			background-color:#3C9}		
+			
+.sil{
+	clear:both;}
+	
+	#banner{
+		font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+		
+		margin-top:0;
+		
+	height:200px;
+	background-image:url(img/WhatsApp%20Image%202020-12-31%20at%2013.10.30.jpeg);
+	background-position:center;
+	background-attachment:fixed;
+	background-size:cover;}
+	h3{
+		font-size:36px;
+		padding:0;}
+
+	#bannertext{
+		
+		text-align:center;
+		color:#FFF;
+		padding:20px;
+	
+	}
+	
+#cubuk{
+	height:10px;
+	background-color:#333;}	
+	
+	
+	#sol{
+		width:650px;
+		height:auto;
+		margin:90px;
+		float:left;
+		}
+	
+	#sag{
+		width:330px;
+		height:auto;
+		float:left;
+		margin:70px;}
+	
+	
+	
+	#baslik{ font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size:20px;
+	color:#0C9;}
+	h5{
+		letter-spacing:1px;
+		color:#999;}
+	
+				
+.sil{
+	clear:both;}
+	
+	.altdiv{
+		height:250px;
+		background-color:#333;}
+		
+		.basliklar{
+			color:#FFF;
+			text-decoration:none;}
+	
+ 
+	.ilk{
+		width:300px;
+		float:left;
+			color:#FFF;
+			margin:50px;
+			text-decoration:underline;
+		}
+		.orta{
+			width:300px;
+		float:left;
+			color:#FFF;
+			margin:50px;
+			text-decoration:underline; 
+			
+			
+		
+			}
+		
+	.son{
+		width:350px;
+		margin:50px;
+		float:left;
+			color:#FFF;
+			
+		}	
+		.buton{
+	display:block;
+	width:120px;
+	height:40px;
+	background-color:#3C9;
+	
+	color:#FFF;
+	text-decoration:none;
+	margin:15px;
+	line-height:40px;
+	text-align:center;
+		}
+		
+		.sil{
+	clear:both;}
+	
+	#bannerr{
+		float:left;
+		margin-bottom:10px;
+		margin-top:10px;
+		border-bottom-left-radius:5px;
+		border-bottom-right-radius:5px;
+		border-radius:5px;}
+		
+		#icerik{
+			width:832px;
+			float:left;
+			}
+		h2{
+			margin-left:10px;
+			text-align:center;
+			width:800px;
+			height:50px;
+			background-color:#333;
+			color:#FFF;
+			line-height:50px;
+			}
+		
+	.yazi{
+			
+			width:800px;
+			margin-bottom:20px;
+			text-indent:25px;
+			float:left;
+			}
+		
+		h1{
+			color:#FFF;
+			background-color:#333;
+			height:50px;
+			text-align:center;
+			line-height:50px;
+			}
+			.baslik{
+				color:#3C9;
+				text-indent:25px;
+				
+				
+				font-size:20px;
+				}
+			.baslik:hover{
+				color:#333;}
+			
+			
+			.yazilar{
+				
+				
+				margin:5px;
+				float:left;
+				width:850px;
+				height:200px;
+				padding:10px;
+				
+				text-indent:15px;
+				
+				}
+	.blogresim{
+	width:30%;
+	height:200px;
+	border-radius:5px;
+		box-shadow:0 2px 8px 2px rgba(20,23,28,.15);
+		opacity:.8;
+		transition:all .8s;
+		margin:10px;
+		
+		float:left;}	
+.blogresim:hover{
+	opacity:1;
+	border:5px solid #396;}	
+	.form{
+		width:450px;
+		height:500px;
+			margin:60px;
+			float:left;
+			padding:50px;
+			
+			}
+	
+	iframe{
+	width:450px;
+	height:340px;
+	margin:20px;
+
+
+	
+	float:left;}
+	
+	#sosyalikon{
+	float:right;
+	}
+	
+#sosyalikon i{	
+color:#0C9;
+font-size:25px;
+margin-right:20px;
+line-height:15px;
+padding:10px;
+margin:1px;
+
+}
+	
+	
+			.sil{
+	clear:both;}
+		
